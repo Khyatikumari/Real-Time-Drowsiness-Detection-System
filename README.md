@@ -85,22 +85,12 @@ pip install opencv-python pillow numpy matplotlib scipy
 
 ## 🖼️ Output Preview
 
-| Normal | Drowsy |
-|--------|--------|
-| 🧍‍♀️ Eyes open, mouth closed | 😴 Eyes closed or yawning |
-
-*(Replace these icons with your own project screenshots)*
-
+### Drowsy Mode
+![Drowsy Output](drowsy.png)
 ---
 
-## 🧪 Console Output Example
 
-```
-✅ Found 1 face(s) in the image.
-✅ Face encodings extracted successfully.
-Eyes closed: True
-Yawning: False
-Score: 5
+Score: >5
 ⚠️ Drowsy! Alarm Triggered.
 ```
 
