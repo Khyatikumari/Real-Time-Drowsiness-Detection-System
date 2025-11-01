@@ -83,19 +83,6 @@ pip install opencv-python pillow numpy matplotlib scipy
 
 ---
 
-## 🖼️ Output Preview
-
-### Drowsy Mode
-![Drowsy Output](drowsy.png)
----
-
-
-Score: >5
-⚠️ Drowsy! Alarm Triggered.
-```
-
----
-
 ## 🧩 Core Logic
 
 ```python
