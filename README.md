@@ -139,7 +139,8 @@ pip install opencv-python dlib numpy face_recognition Pillow matplotlib scipy
 - 🧬 Upgrade to **YOLOv8** or **Mediapipe** for faster detection
 
 ---
-
+## Project Explanation Video:
+https://www.loom.com/share/c15ed699d8224e5b935b2827f8597015
 ## 👩‍💻 Author
 
 **Khyati Kumari**  
