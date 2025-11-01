@@ -62,14 +62,6 @@ Before running, make sure you have:
 Run the following commands in your terminal:
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/Real-Time-Drowsiness-Detection.git
-cd Real-Time-Drowsiness-Detection
-
-# (Optional) Create a virtual environment
-python -m venv venv
-venv\Scripts\activate  # For Windows
-# source venv/bin/activate  # For macOS/Linux
 
 # Install required dependencies
 pip install cmake
@@ -153,18 +145,12 @@ pip install opencv-python dlib numpy face_recognition Pillow matplotlib scipy
 
 ## 🚀 Run the Project
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/<your-username>/Real-Time-Drowsiness-Detection-System.git
-   cd Real-Time-Drowsiness-Detection-System
-   ```
-
-2. Run the script  
+1. Run the script  
    ```bash
    python drowsiness_detection.py
    ```
 
-3. Make sure your webcam is enabled.
+2. Make sure your webcam is enabled.
 
 ---
 
@@ -180,17 +166,17 @@ pip install opencv-python dlib numpy face_recognition Pillow matplotlib scipy
 ## 👩‍💻 Author
 
 **Khyati Kumari**  
-🎓 B.E. in Computer Science & Engineering – *Chandigarh University*  
-📧 21bcs5784@cuchd.in  
+🎓 B.E. in Computer Science & Engineering  
+📧 khyatikash1604@gmail.com  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/khyatikumari21) | [GitHub](https://github.com/khyatikumari21)
+🔗 [LinkedIn](https://www.linkedin.com/in/khyati-kumari-nwd/) | [GitHub](https://github.com/khyatikumari)
 
 ---
 
 ## 🪪 License
 
 This project is licensed under the **MIT License**.  
-You’re free to use, modify, and distribute it for learning and research.
+You’re free to use for learning and research.
 
 ---
 
